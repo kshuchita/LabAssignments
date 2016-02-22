@@ -1,4 +1,4 @@
-Lab Assignment 1:
+Lab Assignment 3:
 
 Question: 1.R Project Prepare a dataset related to your own project and perform k-Means, k-Medians, Expectation Maximisation (EM), Hierarchical Clustering and report the results. 
 	  2.Watch Application: Data collection related to your own project through Smart Phone and Watch, send notifications to watch using intuitive data analysis.
