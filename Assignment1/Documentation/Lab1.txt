@@ -1,0 +1,9 @@
+Matrix Addition mapreduce pseudo code
+C=A+B
+A has dimensions L,M
+B has dimensions L,M
+1. In map phase
+-for each element (i,j) of A, emit A[i,j] for every row and column
+-for each element (i,j) of B, emit B[i,j] for every row and column
+2.  In Reduce phase 
+	-C[i,j]=A[i,j]+B[i,j]
